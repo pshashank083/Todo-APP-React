@@ -1,3 +1,7 @@
-Todo-APP-React
+_**Todo-APP-React**_
 
-Implemented CRUD operation
+**Implemented CRUD operation**
+
+Glimpse of App -
+
+![](public/)
